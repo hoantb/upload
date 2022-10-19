@@ -1,0 +1,8 @@
+@media only screen and (max-width: 480px) {
+    #chatbox {
+        width: 90%;
+    }
+    #userInput {
+        width: 90%;
+    }
+  }
